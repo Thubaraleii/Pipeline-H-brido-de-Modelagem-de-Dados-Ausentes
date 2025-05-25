@@ -72,21 +72,29 @@ pipeline-paleoecologia/
 
 │
 
-├── data/                  # Dados de entrada
+├── data/                 
+# Dados de entrada
 
-├── outputs/               # Resultados gerados
+├── outputs/              
+# Resultados gerados
 
-├── pipeline_hibrido.py    # Código principal do pipeline
+├── pipeline_hibrido.py   
+# Código principal do pipeline
 
-├── dashboard.py           # Dashboard interativo
+├── dashboard.py          
+# Dashboard interativo
 
-├── fluxograma.dot         # Arquivo do fluxograma Graphviz
+├── fluxograma.dot         
+# Arquivo do fluxograma Graphviz
 
-├── pipeline.png           # Imagem do pipeline
+├── pipeline.png          
+# Imagem do pipeline
 
-├── requirements.txt       # Dependências
+├── requirements.txt       
+# Dependências
 
-├── README.md              # Este arquivo
+├── README.md              
+# Este arquivo
 
 
 ### ✅ 1. Clone este repositório
