@@ -25,13 +25,13 @@ O pipeline combina de forma inteligente:
 📥 Dados → 🧽 Limpeza → 🔗 Data Augmentation
 - ↓
 - 🧠 Modelagem:
--→ Random Forest
--→ Gradient Boosting
--→ KNN
--→ Bootstrap (baseline)
--→ Deep Learning (MLP)
--→ Bayesian Ridge
--→ PyMC (Probabilístico)
+-→ Random Forest.
+-→ Gradient Boosting.
+-→ KNN.
+-→ Bootstrap (baseline).
+-→ Deep Learning (MLP).
+-→ Bayesian Ridge.
+-→ PyMC (Probabilístico).
 -↓
 -📊 Validação (LOOCV ou Holdout)
 -↓
