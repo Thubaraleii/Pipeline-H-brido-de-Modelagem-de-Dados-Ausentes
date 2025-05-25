@@ -68,12 +68,6 @@ O pipeline combina de forma inteligente:
 
 ## 🛠️ Instalação
 
-### ✅ 1. Clone este repositório
-
-```bash
-git clone https://github.com/seuusuario/pipeline-paleoecologia.git
-cd pipeline-paleoecologia
-
 pipeline-paleoecologia/
 │
 ├── data/                  # Dados de entrada
@@ -85,3 +79,8 @@ pipeline-paleoecologia/
 ├── requirements.txt       # Dependências
 ├── README.md              # Este arquivo
 
+### ✅ 1. Clone este repositório
+
+```bash
+git clone https://github.com/seuusuario/pipeline-paleoecologia.git
+cd pipeline-paleoecologia.
