@@ -22,6 +22,25 @@ O pipeline combina de forma inteligente:
 
 ---
 ## 🗺️ Fluxo do Pipeline
+📥 Dados → 🧽 Limpeza → 🔗 Data Augmentation
+       ↓
+🧠 Modelagem:
+   → Random Forest
+   → Gradient Boosting
+   → KNN
+   → Bootstrap (baseline)
+   → Deep Learning (MLP)
+   → Bayesian Ridge
+   → PyMC (Probabilístico)
+       ↓
+📊 Validação (LOOCV ou Holdout)
+       ↓
+🏆 Seleção do melhor modelo por variável
+       ↓
+📝 Preenchimento dos dados vazios
+       ↓
+📦 Exportação (Excel, CSV, Gráficos, Dashboard Local)
+
 
 ## 🔥 Funcionalidades
 
