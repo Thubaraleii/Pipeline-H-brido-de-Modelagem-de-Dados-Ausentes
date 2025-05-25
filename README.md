@@ -21,6 +21,24 @@ O pipeline combina de forma inteligente:
 - 📦 Exportação em Excel, CSV e dashboards locais.
 
 ---
-
 ## 🗺️ Fluxo do Pipeline
+---
 
+## 🔥 Funcionalidades
+
+- ✔️ Preenchimento de dados geoquímicos e paleoecológicos multiproxy.
+- ✔️ Escolha automática do melhor modelo para cada variável.
+- ✔️ Modelagem híbrida: **ML + Deep Learning + Bayesian.**
+- ✔️ Análise de incerteza estatística (modelos probabilísticos).
+- ✔️ Dashboards locais interativos via **Plotly + Dash**.
+- ✔️ Visualização tabular e wrangling via **Data Wrangler local**.
+
+---
+
+## 🛠️ Instalação
+
+### ✅ 1. Clone este repositório
+
+```bash
+git clone https://github.com/seuusuario/pipeline-paleoecologia.git
+cd pipeline-paleoecologia
