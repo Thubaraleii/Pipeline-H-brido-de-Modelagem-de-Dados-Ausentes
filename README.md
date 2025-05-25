@@ -53,7 +53,7 @@ O pipeline combina de forma inteligente:
 ↓
 📦 Exportação (Excel, CSV, Gráficos, Dashboard Local)
 
-
+---
 
 ## 🔥 Funcionalidades
 
