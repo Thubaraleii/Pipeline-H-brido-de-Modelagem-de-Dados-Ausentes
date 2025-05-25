@@ -32,6 +32,7 @@ O pipeline combina de forma inteligente:
 → Gradient Boosting
 
 → KNN
+
 → Bootstrap (baseline)
 
 → Deep Learning (MLP)
