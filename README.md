@@ -69,15 +69,25 @@ O pipeline combina de forma inteligente:
 ## 🛠️ Instalação
 
 pipeline-paleoecologia/
+
 │
+
 ├── data/                  # Dados de entrada
+
 ├── outputs/               # Resultados gerados
+
 ├── pipeline_hibrido.py    # Código principal do pipeline
+
 ├── dashboard.py           # Dashboard interativo
+
 ├── fluxograma.dot         # Arquivo do fluxograma Graphviz
+
 ├── pipeline.png           # Imagem do pipeline
+
 ├── requirements.txt       # Dependências
+
 ├── README.md              # Este arquivo
+
 
 ### ✅ 1. Clone este repositório
 
