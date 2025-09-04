@@ -1,6 +1,33 @@
 # 🧠🔬 Pipeline Híbrido de Modelagem de Dados Ausentes — Paleoecologia Multiproxy (Lontras Shale Lagerstätte)
 
 ---
+📘 Nova Versão – 2.2.2.3 Pipeline Híbrida
+
+Com base nas análises anteriores, foi desenvolvida uma pipeline híbrida de modelagem que integra as seguintes etapas:
+
+Pré-processamento dos dados:
+
+Imputação de valores ausentes por regressão linear múltipla;
+
+Normalização e verificação de multicolinearidade via VIF e PCA.
+
+Estatística descritiva e regressão linear baseline:
+
+Análise exploratória com boxplots, histogramas e matriz de correlação;
+
+Modelagem linear para análise comparativa de desempenho.
+
+Modelagem supervisionada estratificada:
+
+Aplicação de algoritmos de machine learning como Random Forest, XGBoost e MLP;
+
+Treinamento e validação cruzada estratificada (k-fold) por subnível.
+
+Avaliação de desempenho:
+
+Métricas: R², RMSE, MAE sobre o conjunto de teste;
+
+Análise crítica com gráficos de resíduos e predições.
 
 ## 📄 Descrição do Projeto
 
